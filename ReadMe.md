@@ -1,5 +1,5 @@
 # FACEMATCH
-## Deep Learning Model for simiral face prediction between given data and Bollywood Celebrities
+## Deep Learning Model for similar face prediction between given data and Bollywood Celebrities
 
 ### Lbraries included
     1.Tensorflow==2.3.1
